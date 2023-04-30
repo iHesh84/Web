@@ -26,3 +26,12 @@ body {
   margin: 0;
   padding: 0;
 }
+
+#omar{
+  font-family: Helvetica;
+  float: left;
+  font-size: 14px;
+  padding-left: 10px;
+  text-transform: uppercase;
+
+}
